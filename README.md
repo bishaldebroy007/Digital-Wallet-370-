@@ -1,0 +1,1 @@
+We collaborated on a database course project, leveraging MySQL, Python, and the Flask framework to develop a digital wallet application. This application enables users to transfer funds and securely store their money.
